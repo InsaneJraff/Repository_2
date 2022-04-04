@@ -1,4 +1,5 @@
 def aa():
-    print('Test Gita')
+    a = input("Wpisz swoje imie: ")
+    print(f'Siema: {a}')
 
 aa()
